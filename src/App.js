@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="App" style={{ maxWidth: '800px', margin: '0 auto', padding: '1rem' }}>
       <header style={{ textAlign: 'center' }}>
-        <h1>Daily Quote & Docs App</h1>
+        <h1>Morning Daily Quote & Docs App</h1>
       </header>
       <main>
         <Quote />

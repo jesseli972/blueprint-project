@@ -8,7 +8,7 @@ const slides = [
   },
   {
     title: "Issues Encountered",
-    content: "Encountered challenges with asynchronous data fetching and responsive design. Resolved by using React hooks and media queries.",
+    content: "Had trouble with finding a free api that provided the proper quotes. The API found didn't include the necessary Access-Control-Allow-Origin header in its response. To bypass the restriction during development, I modified the fetch URL to use a CORS proxy.",
   },
   {
     title: "Demo Video",
